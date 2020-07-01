@@ -1,5 +1,5 @@
 # PEHeaderViewer
-A PHP script that dumps the PE Header of an Windows executable file
+A PHP script that dumps the PE Header of a Windows PE (executable) file
 
 ## Information obtained:
 
